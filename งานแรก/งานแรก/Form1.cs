@@ -43,16 +43,16 @@ namespace งานแรก
                 }
                 if (textBox2.Text != " ")
                 {
-                    total += Convert.ToInt32(textBox2.Text) * 9000;
+                    total += Convert.ToInt32(textBox2.Text) * 200;
                 }
                 if (textBox3.Text != " ")
                 {
-                    total += Convert.ToInt32(textBox3.Text) * 10;
+                    total += Convert.ToInt32(textBox3.Text) * 15;
                 }
                 if (textBox4.Text != " ")
 
                 {
-                    total += Convert.ToInt32(textBox4.Text) * 20;
+                    total += Convert.ToInt32(textBox4.Text) * 30;
                 }
                 if (textBox5.Text != " ")
 
@@ -61,7 +61,7 @@ namespace งานแรก
                 }
                 if (textBox6.Text != " ")
                 {
-                    total += Convert.ToInt32(textBox6.Text) * 30;
+                    total += Convert.ToInt32(textBox6.Text) * 35;
                 }
 
                 lbpay.Text = total.ToString();

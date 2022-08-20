@@ -42,3 +42,14 @@ C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งาน
 C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.exe
 C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.pdb
 C:\Users\Asus\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.SuggestedBindingRedirects.cache
+D:\ProjGit\Project1\งานแรก\งานแรก\bin\Debug\งานแรก.exe.config
+D:\ProjGit\Project1\งานแรก\งานแรก\bin\Debug\งานแรก.exe
+D:\ProjGit\Project1\งานแรก\งานแรก\bin\Debug\งานแรก.pdb
+D:\ProjGit\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.AssemblyReference.cache
+D:\ProjGit\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.SuggestedBindingRedirects.cache
+D:\ProjGit\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.Form1.resources
+D:\ProjGit\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.Properties.Resources.resources
+D:\ProjGit\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.GenerateResource.cache
+D:\ProjGit\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.CoreCompileInputs.cache
+D:\ProjGit\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.exe
+D:\ProjGit\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.pdb
