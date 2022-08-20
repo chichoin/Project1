@@ -38,8 +38,6 @@ namespace งานแรก
             }
             else
             {
-                //กรณรีมีค่าปกติต่อไป
-                //เชคความถูกต้องของ user ที่ส่งเข้ามา
                 if (textBox1.Text != " ")
                 {
                     total += Convert.ToInt32(textBox1.Text) * 30;
@@ -67,28 +65,8 @@ namespace งานแรก
                     total += Convert.ToInt32(textBox6.Text) * 30;
                 }
                 lbpay.Text = total.ToString();
-
-
             }
-
-
-
         }
-        private void btok_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label11_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click_1(object sender, EventArgs e)
         {
             MessageBox.Show("กรอกตัวเลขในทุกช่องด้วยเลข(0-99)และกดปุ่มคำนวนราคาเพื่อคำนวนข้อมูล" +
@@ -121,9 +99,22 @@ namespace งานแรก
             }
             else
             {
-                //ไม่ต้องทำอะไร
-
             }
+
+        }
+        private void btok_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label11_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

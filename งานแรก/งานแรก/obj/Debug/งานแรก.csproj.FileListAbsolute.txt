@@ -8,3 +8,14 @@ C:\Users\ASUS\Documents\GitHub\Project1\งานแรก\งานแรก\ob
 C:\Users\ASUS\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.exe
 C:\Users\ASUS\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.pdb
+E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\bin\Debug\งานแรก.exe.config
+E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\bin\Debug\งานแรก.exe
+E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\bin\Debug\งานแรก.pdb
+E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.AssemblyReference.cache
+E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.SuggestedBindingRedirects.cache
+E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.Form1.resources
+E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.Properties.Resources.resources
+E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.GenerateResource.cache
+E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.CoreCompileInputs.cache
+E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.exe
+E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.pdb
