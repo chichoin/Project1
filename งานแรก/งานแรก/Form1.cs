@@ -15,14 +15,11 @@ namespace งานแรก
         public Form1()
         {
             InitializeComponent();
-
-
         }
 
         private void button1_Click(object sender, EventArgs e)
 
         {
-
             int total = 0;
             if (
                 //เซ็ต
@@ -32,7 +29,6 @@ namespace งานแรก
                 (string.IsNullOrEmpty(textBox4.Text)) ||
                 (string.IsNullOrEmpty(textBox5.Text)) ||
                 (string.IsNullOrEmpty(textBox6.Text))
-
                )
             {   //เชคกรณีว่าง
                 MessageBox.Show("กรุณาใส่ตัวเลขให้ครบทุกช่องโดย");
@@ -75,7 +71,6 @@ namespace งานแรก
             MessageBox.Show("กรอกตัวเลขในทุกช่องด้วยเลข(0-99)และกดปุ่มคำนวนราคาเพื่อคำนวนข้อมูล" +
                 "ส่วนClear คือปุ่ม รีเซ็ตข้อมูล ส่วนปุ่มExit คือปุ่ม จบการทำงาน");
         }
-
         private void button2_Click(object sender, EventArgs e)
         {
             //เคลียช่อง
@@ -87,7 +82,6 @@ namespace งานแรก
             textBox6.Text = "";
             lbpay.Text = "";
         }
-
         private void button3_Click(object sender, EventArgs e)
         {
             //จบโปรแกรม
@@ -104,13 +98,11 @@ namespace งานแรก
             else
             {
             }
-
         }
         private void btok_Click(object sender, EventArgs e)
         {
 
         }
-
         private void label1_Click(object sender, EventArgs e)
         {
 

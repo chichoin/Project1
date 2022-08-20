@@ -19,3 +19,14 @@ E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแร�
 E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.CoreCompileInputs.cache
 E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.exe
 E:\Users\iigluayy\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.pdb
+C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\bin\Debug\งานแรก.exe.config
+C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\bin\Debug\งานแรก.exe
+C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\bin\Debug\งานแรก.pdb
+C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.AssemblyReference.cache
+C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.Form1.resources
+C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.Properties.Resources.resources
+C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.GenerateResource.cache
+C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.CoreCompileInputs.cache
+C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.exe
+C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.pdb
