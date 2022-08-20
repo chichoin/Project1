@@ -36,6 +36,7 @@ namespace งานแรก
             else
             {
                 //การคำนวนจำนวนผลไม้
+
                 if (textBox1.Text != " ")
                 {
                     total += Convert.ToInt32(textBox1.Text) * 30;
@@ -62,9 +63,11 @@ namespace งานแรก
                 {
                     total += Convert.ToInt32(textBox6.Text) * 30;
                 }
+
                 lbpay.Text = total.ToString();
             }
         }
+
         private void button1_Click_1(object sender, EventArgs e)
         {
             //วิธีใช้
