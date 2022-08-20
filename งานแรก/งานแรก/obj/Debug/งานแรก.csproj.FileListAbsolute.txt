@@ -41,3 +41,4 @@ C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งาน
 C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.CoreCompileInputs.cache
 C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.exe
 C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.pdb
+C:\Users\Asus\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.SuggestedBindingRedirects.cache

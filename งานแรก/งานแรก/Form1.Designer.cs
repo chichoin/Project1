@@ -55,11 +55,11 @@ namespace งานแรก
             // 
             // btsum
             // 
-            this.btsum.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.btsum.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.btsum.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btsum.Location = new System.Drawing.Point(299, 342);
+            this.btsum.Location = new System.Drawing.Point(264, 347);
             this.btsum.Name = "btsum";
-            this.btsum.Size = new System.Drawing.Size(226, 39);
+            this.btsum.Size = new System.Drawing.Size(235, 39);
             this.btsum.TabIndex = 0;
             this.btsum.Text = "คำนวนราคา";
             this.btsum.UseVisualStyleBackColor = true;
@@ -68,7 +68,7 @@ namespace งานแรก
             // label1
             // 
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.label1.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label1.ForeColor = System.Drawing.Color.Purple;
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
@@ -81,7 +81,7 @@ namespace งานแรก
             // label2
             // 
             this.label2.BackColor = System.Drawing.Color.Aqua;
-            this.label2.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label2.ForeColor = System.Drawing.Color.Red;
             this.label2.Location = new System.Drawing.Point(12, 47);
             this.label2.Name = "label2";
@@ -93,7 +93,7 @@ namespace งานแรก
             // label3
             // 
             this.label3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.label3.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label3.ForeColor = System.Drawing.Color.Red;
             this.label3.Location = new System.Drawing.Point(50, 160);
             this.label3.Name = "label3";
@@ -105,7 +105,7 @@ namespace งานแรก
             // label4
             // 
             this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.label4.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label4.ForeColor = System.Drawing.Color.Red;
             this.label4.Location = new System.Drawing.Point(410, 222);
             this.label4.Name = "label4";
@@ -117,7 +117,7 @@ namespace งานแรก
             // label5
             // 
             this.label5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.label5.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label5.ForeColor = System.Drawing.Color.Red;
             this.label5.Location = new System.Drawing.Point(50, 286);
             this.label5.Name = "label5";
@@ -129,7 +129,7 @@ namespace งานแรก
             // label6
             // 
             this.label6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.label6.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label6.ForeColor = System.Drawing.Color.Red;
             this.label6.Location = new System.Drawing.Point(50, 222);
             this.label6.Name = "label6";
@@ -141,7 +141,7 @@ namespace งานแรก
             // label7
             // 
             this.label7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.label7.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label7.ForeColor = System.Drawing.Color.Red;
             this.label7.Location = new System.Drawing.Point(410, 160);
             this.label7.Name = "label7";
@@ -154,7 +154,7 @@ namespace งานแรก
             // label8
             // 
             this.label8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.label8.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label8.ForeColor = System.Drawing.Color.Red;
             this.label8.Location = new System.Drawing.Point(410, 286);
             this.label8.Name = "label8";
@@ -165,56 +165,56 @@ namespace งานแรก
             // 
             // textBox1
             // 
-            this.textBox1.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.textBox1.Location = new System.Drawing.Point(277, 160);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 42);
+            this.textBox1.Size = new System.Drawing.Size(100, 38);
             this.textBox1.TabIndex = 10;
             // 
             // textBox2
             // 
-            this.textBox2.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.textBox2.Location = new System.Drawing.Point(277, 222);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 42);
+            this.textBox2.Size = new System.Drawing.Size(100, 38);
             this.textBox2.TabIndex = 11;
             // 
             // textBox3
             // 
-            this.textBox3.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.textBox3.Location = new System.Drawing.Point(277, 286);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 42);
+            this.textBox3.Size = new System.Drawing.Size(100, 38);
             this.textBox3.TabIndex = 12;
             // 
             // textBox4
             // 
-            this.textBox4.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.textBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.textBox4.Location = new System.Drawing.Point(647, 160);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 42);
+            this.textBox4.Size = new System.Drawing.Size(100, 38);
             this.textBox4.TabIndex = 13;
             // 
             // textBox5
             // 
-            this.textBox5.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.textBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.textBox5.Location = new System.Drawing.Point(647, 222);
             this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(100, 42);
+            this.textBox5.Size = new System.Drawing.Size(100, 38);
             this.textBox5.TabIndex = 14;
             // 
             // textBox6
             // 
-            this.textBox6.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.textBox6.Location = new System.Drawing.Point(647, 286);
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(100, 42);
+            this.textBox6.Size = new System.Drawing.Size(100, 38);
             this.textBox6.TabIndex = 15;
             // 
             // label9
             // 
             this.label9.BackColor = System.Drawing.Color.GhostWhite;
-            this.label9.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label9.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label9.Location = new System.Drawing.Point(47, 110);
             this.label9.Name = "label9";
@@ -226,7 +226,7 @@ namespace งานแรก
             // lbpay
             // 
             this.lbpay.BackColor = System.Drawing.Color.GhostWhite;
-            this.lbpay.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.lbpay.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.lbpay.ForeColor = System.Drawing.Color.Red;
             this.lbpay.Location = new System.Drawing.Point(277, 398);
             this.lbpay.Name = "lbpay";
@@ -239,7 +239,7 @@ namespace งานแรก
             // label12
             // 
             this.label12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.label12.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label12.ForeColor = System.Drawing.Color.Red;
             this.label12.Location = new System.Drawing.Point(45, 398);
             this.label12.Name = "label12";
@@ -250,7 +250,7 @@ namespace งานแรก
             // 
             // button1
             // 
-            this.button1.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button1.Location = new System.Drawing.Point(18, 54);
             this.button1.Name = "button1";
@@ -262,7 +262,7 @@ namespace งานแรก
             // 
             // button2
             // 
-            this.button2.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.button2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button2.Location = new System.Drawing.Point(513, 398);
             this.button2.Name = "button2";
@@ -274,7 +274,7 @@ namespace งานแรก
             // 
             // button3
             // 
-            this.button3.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.button3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button3.Location = new System.Drawing.Point(652, 398);
             this.button3.Name = "button3";
@@ -287,7 +287,7 @@ namespace งานแรก
             // label11
             // 
             this.label11.BackColor = System.Drawing.Color.GhostWhite;
-            this.label11.Font = new System.Drawing.Font("_Layiji MaHaNiYom V 1.2", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
             this.label11.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label11.Location = new System.Drawing.Point(409, 110);
             this.label11.Name = "label11";
