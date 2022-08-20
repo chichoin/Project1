@@ -30,3 +30,14 @@ C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\obj
 C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.CoreCompileInputs.cache
 C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.exe
 C:\Users\Aum\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.pdb
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\bin\Debug\งานแรก.exe.config
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\bin\Debug\งานแรก.exe
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\bin\Debug\งานแรก.pdb
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.AssemblyReference.cache
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.Form1.resources
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.Properties.Resources.resources
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.GenerateResource.cache
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.csproj.CoreCompileInputs.cache
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.exe
+C:\Users\PHATCHARAPHON_21\Documents\GitHub\Project1\งานแรก\งานแรก\obj\Debug\งานแรก.pdb
