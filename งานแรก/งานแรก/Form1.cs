@@ -20,45 +20,63 @@ namespace งานแรก
         }
 
         private void button1_Click(object sender, EventArgs e)
-            
+
         {
 
             int total = 0;
-            if (textBox1.Text != " ")
-            { 
-                        total += Convert.ToInt32(textBox1.Text) * 30;
-            }
-            if (textBox2.Text != " ")
-            {
-                total += Convert.ToInt32(textBox2.Text) * 9000;
-            }
-            if (textBox3.Text != " ")
+            if (
+                (string.IsNullOrEmpty(textBox1.Text)) ||
+                (string.IsNullOrEmpty(textBox2.Text)) ||
+                (string.IsNullOrEmpty(textBox3.Text)) ||
+                (string.IsNullOrEmpty(textBox4.Text)) ||
+                (string.IsNullOrEmpty(textBox5.Text)) ||
+                (string.IsNullOrEmpty(textBox6.Text))
 
-            {
-                total += Convert.ToInt32(textBox3.Text) * 10;
+               )
+            {   //เชคกรณีว่าง
+                MessageBox.Show("กรุณาใส่ตัวเลขให้ครบทุกช่องโดย");
             }
-            if (textBox4.Text != " ")
-   
+            else
             {
-                total += Convert.ToInt32(textBox4.Text) * 20;
-            }
-            if (textBox5.Text != " ")
-    
-            {
-                total += Convert.ToInt32(textBox5.Text) * 50;
-            }
-            if (textBox6.Text != " ")
-          
-            {
-                total += Convert.ToInt32(textBox6.Text) * 30;
-            }
-            lbpay.Text = total.ToString();
+                //กรณรีมีค่าปกติต่อไป
+                //เชคความถูกต้องของ user ที่ส่งเข้ามา
+                if (textBox1.Text != " ")
+                {
+                    total += Convert.ToInt32(textBox1.Text) * 30;
+                }
+                if (textBox2.Text != " ")
+                {
+                    total += Convert.ToInt32(textBox2.Text) * 9000;
+                }
+                if (textBox3.Text != " ")
+                {
+                    total += Convert.ToInt32(textBox3.Text) * 10;
+                }
+                if (textBox4.Text != " ")
 
-        
+                {
+                    total += Convert.ToInt32(textBox4.Text) * 20;
+                }
+                if (textBox5.Text != " ")
+
+                {
+                    total += Convert.ToInt32(textBox5.Text) * 50;
+                }
+                if (textBox6.Text != " ")
+                {
+                    total += Convert.ToInt32(textBox6.Text) * 30;
+                }
+                lbpay.Text = total.ToString();
+
+
+            }
+
+
+
         }
         private void btok_Click(object sender, EventArgs e)
         {
-     
+
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -85,12 +103,27 @@ namespace งานแรก
             textBox4.Text = "";
             textBox5.Text = "";
             textBox6.Text = "";
-
+            lbpay.Text = "";
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+
+            DialogResult dr = MessageBox.Show(
+                  "คุณต้องการออกจากโปรแกรม ?",
+                  "ออกจากโปรแกรม",
+                  MessageBoxButtons.YesNo,
+                  MessageBoxIcon.Question
+                  );
+            if (dr == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+            else
+            {
+                //ไม่ต้องทำอะไร
+
+            }
         }
     }
 }
