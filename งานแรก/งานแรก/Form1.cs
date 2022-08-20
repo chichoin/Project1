@@ -25,6 +25,7 @@ namespace งานแรก
 
             int total = 0;
             if (
+                //เซ็ต
                 (string.IsNullOrEmpty(textBox1.Text)) ||
                 (string.IsNullOrEmpty(textBox2.Text)) ||
                 (string.IsNullOrEmpty(textBox3.Text)) ||
@@ -38,6 +39,7 @@ namespace งานแรก
             }
             else
             {
+                //การคำนวนจำนวนผลไม้
                 if (textBox1.Text != " ")
                 {
                     total += Convert.ToInt32(textBox1.Text) * 30;
@@ -69,12 +71,14 @@ namespace งานแรก
         }
         private void button1_Click_1(object sender, EventArgs e)
         {
+            //วิธีใช้
             MessageBox.Show("กรอกตัวเลขในทุกช่องด้วยเลข(0-99)และกดปุ่มคำนวนราคาเพื่อคำนวนข้อมูล" +
                 "ส่วนClear คือปุ่ม รีเซ็ตข้อมูล ส่วนปุ่มExit คือปุ่ม จบการทำงาน");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+            //เคลียช่อง
             textBox1.Text = "";
             textBox2.Text = "";
             textBox3.Text = "";
@@ -86,7 +90,7 @@ namespace งานแรก
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            //จบโปรแกรม
             DialogResult dr = MessageBox.Show(
                   "คุณต้องการออกจากโปรแกรม ?",
                   "ออกจากโปรแกรม",
